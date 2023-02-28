@@ -1,5 +1,5 @@
 {
-  "name": "GioIPLite2",
+  "name": "GeoIPLite2",
   "description": "GeoIPLite2 library with internal connection",
   "main": "NewActivity.xaml",
   "dependencies": {
